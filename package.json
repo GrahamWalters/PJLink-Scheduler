@@ -1,0 +1,13 @@
+{
+  "name": "PJLink-Scheduler",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "node-schedule": "latest",
+    "extend": "latest",
+    "pjlink": "latest"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}
